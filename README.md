@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate Junior Penetration Tester 🛡️<br>Dedicated to Fortifying Cybersecurity Defenses 💼<br>Actively Seeking Growth and Collaboration in InfoSec 🔍<br>Bug Hunter 🐛 <br>Backend Developer 💻 <br>Constantly Scouring for Vulnerabilities and Crafting Robust Solutions 🔍🔨<br>Top 4% in TryHackMe  🏆<br>CTF Enthusiast 🚀
+Passionate Junior Penetration Tester 🛡️<br>Dedicated to Fortifying Cybersecurity Defenses 💼<br>Actively Seeking Growth and Collaboration in InfoSec 🔍<br>Bug Hunter 🐛 <br>Backend Developer 💻 <br>Constantly Scouring for Vulnerabilities and Crafting Robust Solutions 🔍🔨<br>Top 1% in TryHackMe  🏆<br>CTF Enthusiast 🚀
 
 
 ## 🌐 Socials:
